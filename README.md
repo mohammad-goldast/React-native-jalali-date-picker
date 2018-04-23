@@ -4,9 +4,13 @@ A simple and clean jalali datepicker for ReactNative.
 My goal of push this package on github is to use it for personal projects. You can refer to the below link and use the full version of this package : [https://github.com/rghorbani/react-native-general-calendars]: React-Native-General-calendars
 
 ## Demo
+<<<<<<< HEAD
 <kbd>
   <img src="https://github.com/rghorbani/react-native-persian-calendar-picker/blob/master/demo/demo.png?raw=true">
 </kbd>
+=======
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "React-native-jalali-datepicker")
+>>>>>>> d288c9748d625b0ca05c8ce29a2544b547ea2632
 
 ## How to use 
 Run : 
@@ -23,7 +27,11 @@ Add the following code to the `App.js` of the project :
             let i = 0;        
             const len = num.length;
             let res = '';
+<<<<<<< HEAD
             const numbers = ['?', '?', '?', '?', '?', '?', '?', '?', '?', '?'];
+=======
+            const numbers = ['۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹'];
+>>>>>>> d288c9748d625b0ca05c8ce29a2544b547ea2632
             for (; i < len; i++) {
                 if (numbers[num.charAt(i)]) {
                     res += numbers[num.charAt(i)];

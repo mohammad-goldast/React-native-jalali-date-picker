@@ -1,104 +1,26 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "react-native-persian-calendar-picker",
-        "scope": null,
-        "escapedName": "react-native-persian-calendar-picker",
-        "name": "react-native-persian-calendar-picker",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "E:\\__ReactNative\\barberAndroid"
-    ]
-  ],
-  "_from": "react-native-persian-calendar-picker@latest",
-  "_inCache": true,
-  "_location": "/react-native-persian-calendar-picker",
-  "_nodeVersion": "9.10.1",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
-    "tmp": "tmp/react-native-persian-calendar-picker_1.1.6_1523337458318_0.22526236306662595"
+  "name": "react-native-jalali-date-picker",
+  "version": "1.0.0",
+  "description": "A simple and clean datepicker",
+  "main": "Day.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "_npmUser": {
-    "name": "rghorbani",
-    "email": "r.ghorbani.f@gmail.com"
-  },
-  "_npmVersion": "5.8.0",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "react-native-persian-calendar-picker",
-    "scope": null,
-    "escapedName": "react-native-persian-calendar-picker",
-    "name": "react-native-persian-calendar-picker",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-persian-calendar-picker/-/react-native-persian-calendar-picker-1.1.6.tgz",
-  "_shasum": "5e03faabbdd664f5c989d1b5341bdc449ac7911d",
-  "_shrinkwrap": null,
-  "_spec": "react-native-persian-calendar-picker",
-  "_where": "E:\\__ReactNative\\barberAndroid",
-  "author": "Reza Ghorbani <r.ghorbani.f@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/rghorbani/react-native-persian-calendar-picker/issues"
-  },
-  "dependencies": {
-    "moment-jalaali": "^0.7.2",
-    "prop-types": "^15.6.1",
-    "react-native-common": "^1.1.1"
-  },
-  "description": "Persian Calendar Picker Component for React Native",
-  "devDependencies": {
-    "babel-eslint": "~8.2.1",
-    "babel-preset-react": "~6.24.1",
-    "babel-preset-react-native": "~4.0.0",
-    "eslint": "~4.16.0",
-    "eslint-plugin-react": "~7.5.1",
-    "eslint-plugin-react-native": "~3.2.1"
-  },
-  "directories": {},
-  "dist": {
-    "integrity": "sha512-Hn5koHkliK0uso/ejEd9kGTCjzMykzKl1gGyU1M3aIRWykPq9S8mjEZp8BaC49Weu5K2n51TSSQBkoBEiWz2tQ==",
-    "shasum": "5e03faabbdd664f5c989d1b5341bdc449ac7911d",
-    "tarball": "https://registry.npmjs.org/react-native-persian-calendar-picker/-/react-native-persian-calendar-picker-1.1.6.tgz",
-    "fileCount": 12,
-    "unpackedSize": 58622
-  },
-  "homepage": "https://github.com/rghorbani/react-native-persian-calendar-picker",
-  "keyword": [
-    "persian",
-    "calendar",
-    "picker",
-    "date",
-    "react",
-    "react-native",
-    "ios",
-    "android"
-  ],
-  "license": "MIT",
-  "main": "PersianCalendarPicker.js",
-  "maintainers": [
-    "rghorbani <r.ghorbani.f@gmail.com>"
-  ],
-  "name": "react-native-jalali-datepicker",
-  "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rghorbani/react-native-persian-calendar-picker.git"
+    "url": "git+https://github.com/blackhair/React-native-jalali-datepicker.git"
   },
-  "scripts": {
-    "test": "eslint ."
-  },
-  "version": "1.1.6",
   "keywords": [
     "DatePicker",
-    "Jalali-Datepicker"
-  ]
+    "Jalali",
+    "Datepicker",
+    "Shamsi",
+    "Datepicker"
+  ],
+  "author": "Mohammad Goldast, Reza Ghorbani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackhair/React-native-jalali-datepicker/issues"
+  },
+  "homepage": "https://github.com/blackhair/React-native-jalali-datepicker#readme"
 }
