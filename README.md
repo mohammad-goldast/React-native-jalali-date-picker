@@ -5,7 +5,7 @@ My goal of push this package on github is to use it for personal projects. You c
 
 ## Demo
 <kbd>
-  <img src="https://github.com/rghorbani/react-native-persian-calendar-picker/blob/master/demo/demo.png?raw=true">
+  <img src="https://raw.githubusercontent.com/blackhair/React-native-jalali-datepicker/master/demo/demo.jpg?raw=true">
 </kbd>
 
 
