@@ -1,4 +1,4 @@
-# React-native-jalali-datepicker
+# React-native-jalali-date-picker
 A simple and clean jalali datepicker for ReactNative.
 
 My goal of push this package on github is to use it for personal projects. You can refer to the below link and use the full version of this package : [https://github.com/rghorbani/react-native-general-calendars]: React-Native-General-calendars
