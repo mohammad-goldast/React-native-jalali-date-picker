@@ -12,7 +12,7 @@ My goal of push this package on github is to use it for personal projects. You c
 ## How to use 
 Run : 
     
-    $ npm i --save React-native-jalali-datepicker
+    $ npm i --save react-native-jalali-date-picker
     
 Add the following code to the `App.js` of the project :
 
